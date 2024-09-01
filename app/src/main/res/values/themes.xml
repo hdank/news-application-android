@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.NewsApplication" parent="android:Theme.Material.Light.DarkActionBar" >
+        <item name="android:colorPrimary">@color/my_primary</item>
+        <item name="android:colorSecondary">@color/my_secondary</item>
+    </style>>
+</resources>
